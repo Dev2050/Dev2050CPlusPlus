@@ -1,12 +1,5 @@
 # Dev2050CPlusPlus
-/**************
-***********
-******
-****
-***
-**
-*/
-GameDev@ConsoleOnlyText3DGraphicsComing
+Game_Dev@ConsoleOnly_Text3DGraphics_Coming
 This is a Kimble game console simulation 
 Information about the game can be found at https://en.wikipedia.org/wiki/Kimble_(board_game)
 The game can be further developed using a 3D libraries such as the OpenGL.
